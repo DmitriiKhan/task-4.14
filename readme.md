@@ -6,7 +6,11 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-## 1. [Введение](./Introduction/main_info.md)
+1. Введение
+   * [Что такое Git](./Introduction/main_info.md)
+   * [Немного истории](./Introduction/history.md)
+
+2. Подготовка
 
 ---
 
