@@ -7,10 +7,15 @@ LICENSE: [MIT](./license.md)
 ---
 
 1. Введение
-   * [Что такое Git](./Introduction/main_info.md)
-   * [Немного истории](./Introduction/history.md)
+   * [Что такое Git](./Introduction/main_info.md);
+   * [Немного истории](./Introduction/history.md).
 
 2. Подготовка
+   * [Устанавливаем Git](./Prepare/Instal_git.md);
+   * [Первоначальные настройки](./Prepare/initial_setup.md).
+
+3. Основные команды
+   * *coming soon*
 
 ---
 
