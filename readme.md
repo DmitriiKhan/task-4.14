@@ -12,10 +12,17 @@ LICENSE: [MIT](./license.md)
 
 2. Подготовка
    * [Устанавливаем Git](./Prepare/Instal_git.md);
-   * [Первоначальные настройки](./Prepare/initial_setup.md).
+   * [Первоначальные настройки](./Prepare/initial_setup.md);
+   * [Полезные ссылки](./Prepare/links.md).
 
 3. Основные команды
-   * *coming soon*
+   * [Создание репозитория](./Main_commands/init.md);
+   * [Добавление удалённого репозитория и работа с ним](./Main_commands/remote_add.md);
+   * [Игнорирование файлов](./Main_commands/ignore.md);
+   * [Добавление файлов в индекс](./Main_commands/add.md);
+   * [Перенос файлов в репозиторий](./Main_commands/commit.md);
+   * [Клонирование репозитория](./Main_commands/clone.md);
+   * [Получение данных о состоянии репозитория](./Main_commands/status.md).
 
 ---
 
