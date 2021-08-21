@@ -61,4 +61,4 @@ git config --global core.quotepath off
 
 ---
 
-## [Переходим к основным командам](./)
+## [Переходим к основным командам](./../Main_commands/init.md)
